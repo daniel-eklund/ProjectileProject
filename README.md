@@ -1,6 +1,7 @@
 # ProjectileProject
 
-This program is a port of a Ti-84+ program I previously had made.
+This program is a port of a Ti-84+ program I previously had made,
+which went on to win a Ti-Instruments sponsered Physics programming contest.
 The purpose of building this project was to ultimately create a
 web ran ti-84+ simulator, with another project that could parse
 ti-84 basic programs and output a format that could be loaded into 
