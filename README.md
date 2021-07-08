@@ -10,8 +10,8 @@ the simulator. Therefore most of the functions were written to
 Currently it runs in pure Javascript and is a state machine that
 draws Ti-84+ font and pixels onto a Javascript canvas. 
 
-**NOTE: This is the original calulator readme from 2013**
-**Projectile Project** 
+**NOTE: This is the original calulator readme from 2013**  
+**Projectile Project**  
 Table of contents:  
  	1 Requirements  
  	2 Installation  
